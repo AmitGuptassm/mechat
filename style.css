@@ -1,0 +1,65 @@
+*{
+     padding: 0;
+     margin: 0;
+}
+.main,body{
+     width: 100%;
+     height: 100%;
+     background-color: rgb(36, 81, 66);
+}
+.main h1{
+     padding:2vw 31vw ;
+     
+}
+.main i{
+     color: red;
+     /* background-color: red; */
+}
+.main span{
+     color: rgb(254, 255, 252);
+}
+.card{
+     height: 25vw;
+     width: 20vw;
+     margin: 8vw 35vw;
+     background-color: white;
+     border-radius:10px;
+     text-align: center;
+}
+.card img{
+     height: 15vw;
+     width: 17vw;
+     padding: 5px 25px;
+     border-radius: 12px;
+}
+.card .img{
+     align-items: center;
+}
+.card .name{
+     /* text-align: center; */
+     font-weight: 700;
+     font-size: 2vw;
+     color: rgb(27, 33, 21);
+     margin: 10px 0;
+}
+.status{
+     /* padding-left:5vw; */
+     text-align: center;
+}
+.status h2{
+     /* margin: 20px; */
+     color: brown;
+     font-size: 25px;
+     font-weight: 600;
+}
+.status .btn{
+     /* padding-left: 1.8vw; */
+}
+.status button{
+     padding: 15px 20px;
+     background-color: rgb(228, 60, 60);
+     border: none;
+     border-radius: 5px;
+     color: white;
+     cursor: pointer;
+}
